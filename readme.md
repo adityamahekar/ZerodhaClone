@@ -20,86 +20,86 @@ This project provides a complete trading interface including portfolio tracking,
 
 ---
 
-## 🖥️ Technologies Used
 
-| Technology          | Purpose             |
-| :------------------ | :------------------ |
-| HTML                | Structure           |
-| CSS                 | Styling             |
-| JavaScript          | Logic               |
-| React.js            | UI Framework        |
-| Chart.js / Recharts | Data Visualization  |
-| Node.js             | Backend (optional)  |
-| MongoDB             | Database (optional) |
+## 🚀 Tech Stack
+
+| Category              | Technology |
+|----------------------|-----------|
+| **Frontend**         | React.js, HTML5, CSS3, JavaScript |
+| **Styling**          | Tailwind CSS, Bootstrap |
+| **Data Visualization** | Chart.js, Recharts |
+| **Backend**          | Node.js, Express.js |
+| **Database**         | MongoDB |
+| **Testing & Tools**  | Jest, Thunder Client |
+| **UI Enhancements**  | Font Awesome |
 
 ---
 
-## 📊 Modules
+## 📁 Project Structure
 
-* Dashboard → Account summary
-* Orders → Trade history
-* Holdings → Portfolio details
-* Positions → Active trades
-* Funds → Balance management
-* Apps → Extensions
+| Folder       | Description |
+|-------------|------------|
+| `backend/`  | Express + MongoDB API |
+| `frontend/` | Zerodha Web App |
+| `dashboard/`| Kite App |
 
 ---
 
 ## 🖼️ Project Preview (30 Images)
 
-|      Image 1      |      Image 2      |
+|      Zerodha UI (Home - 1)      |    Zerodha UI (Home - 2)     |
 | :---------------: | :---------------: |
 | ![](./img/z1.png) | ![](./img/z2.png) |
 
-|      Image 3      |      Image 4      |
+|      Zerodha UI (Home - 3)       |   Zerodha UI (Home - 4)      |
 | :---------------: | :---------------: |
 | ![](./img/z3.png) | ![](./img/z4.png) |
 
-|      Image 5      |      Image 6      |
+|     Zerodha UI (Home - 5)     |    Zerodha UI (About - 1)    |
 | :---------------: | :---------------: |
 | ![](./img/z5.png) | ![](./img/z6.png) |
 
-|      Image 7      |      Image 8      |
+|       Zerodha UI (About - 2)       |       Zerodha UI (Product - 1)     |
 | :---------------: | :---------------: |
 | ![](./img/z7.png) | ![](./img/z8.png) |
 
-|      Image 9      |      Image 10      |
+|      Zerodha UI (Product - 2)       |     Zerodha UI (Product - 3)      |
 | :---------------: | :----------------: |
 | ![](./img/z9.png) | ![](./img/z10.png) |
 
-|      Image 11      |      Image 12      |
+|      Zerodha UI (Product - 4)       |     Zerodha UI (Price - 1)    |
 | :----------------: | :----------------: |
 | ![](./img/z11.png) | ![](./img/z12.png) |
 
-|      Image 13      |      Image 14      |
+|      Zerodha UI (Price - 2)    |     Zerodha UI (Support - 1)   |
 | :----------------: | :----------------: |
 | ![](./img/z13.png) | ![](./img/z14.png) |
 
-|      Image 15      |      Image 16      |
+|         Zerodha UI (Support - 2)      |      Kite UI (Dashboard - 1)    |
 | :----------------: | :----------------: |
 | ![](./img/z15.png) | ![](./img/z16.png) |
 
-|      Image 17      |      Image 18      |
+|         Kite UI (Dashboard - 2)       |     Kite UI (Order - 1)      |
 | :----------------: | :----------------: |
 | ![](./img/z17.png) | ![](./img/z18.png) |
 
-|      Image 19      |      Image 20      |
+|      Kite UI (Holdings - 1)       |      Kite UI (Holdings_Chart - 2)       |
 | :----------------: | :----------------: |
 | ![](./img/z19.png) | ![](./img/z20.png) |
 
-|      Image 21      |      Image 22      |
+|      Kite UI (Position - 1)     |     Kite UI (Funds - 1)    |
 | :----------------: | :----------------: |
 | ![](./img/z21.png) | ![](./img/z22.png) |
 
-|      Image 23      |      Image 24      |
+|    Kite UI (Funds - 2)      |    Kite UI (Apps - 1)     |
 | :----------------: | :----------------: |
 | ![](./img/z23.png) | ![](./img/z24.png) |
 
-|      Image 25      |      Image 26      |
+|     Kite UI (Buy_Order - 1)     |     MongoDB DataBase - 1     |
 | :----------------: | :----------------: |
 | ![](./img/z25.png) | ![](./img/z26.png) |
 
-|      Image 27      |      Image 28      |
+|     MongoDB DataBase - 2     |     MongoDB DataBase - 3     |
 | :----------------: | :----------------: |
 | ![](./img/z27.png) | ![](./img/z28.png) |
 
@@ -177,20 +177,4 @@ npm run dev
 
 If you like this project, give it a ⭐ on GitHub!
 
-
-React
-Node
-Mongodb
-express.js
-
-
-Thunder client
-
-
-tailwindcss
-bootstrap
-chart.js
-jest.js 
-
-font-awesome
 
